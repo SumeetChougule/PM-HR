@@ -1,2 +1,2 @@
 # PM-HR
-Construction of CNN architecture for high resolution.
+PM-HR is a project to generate High-Resolution images of the dark matter distribution in the Universe. Our objective is to understand the small-scale physics of dark matter distribution. The notebook creates training data from Particle Mesh N-body simulation code. It calculates forces on the particles at different resolutions. The neural network tries to learn these forces at different resolutions to generate high-resolution images by learning small-scale forces. If successful, this project will be helpful as an alternative to computationally expensive N-body simulations.
